@@ -15,13 +15,13 @@ It automates basic recon steps like WHOIS lookup, DNS records extraction, and al
 
 
 **Usage**
-Run from Terminal
+Run from Terminal :-
 _python src/recon_tool.py_
 
-Run with GUI
+Run with GUI :-
 __python gui.py_
 
-Run with Streamlit
+Run with Streamlit :-
 __streamlit run gui.py_
 
 
