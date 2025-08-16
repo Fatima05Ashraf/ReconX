@@ -18,6 +18,9 @@ It automates basic recon steps like WHOIS lookup, DNS records extraction, and al
 Run from Terminal :-
 _python src/recon_tool.py_
 
+Run with CLI :-
+_python main.py -d example.com_
+
 Run with GUI :-
 __python gui.py_
 
